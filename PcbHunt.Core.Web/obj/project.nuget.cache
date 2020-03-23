@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nTmaarh8LDJssUzUmwgSU3HNrzbrEmwcxZIKLx1DthO1p3wjzQ5onIat0O7lrvsxWX0sqQcJ5CR2rUrlCvg03Q==",
+  "success": true,
+  "projectFilePath": "F:\\目前在做的\\PcbHunt.Core.Web\\PcbHunt.Core.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
